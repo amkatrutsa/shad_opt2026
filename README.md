@@ -1,4 +1,4 @@
-# shad_opt2026
+# Optimization methods course
 Lectures for Optimization methods course @ Yandex School of Data Analysis, Fall 2026.
 
 | Lecture | Topics | Notebook |
