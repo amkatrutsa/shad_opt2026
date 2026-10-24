@@ -9,3 +9,13 @@ Lectures for Optimization methods course @ Yandex School of Data Analysis, Fall 
 | 4. Duality and applications | Dual function and dual problems. Strong and weak duality, duality gap as an optimality certificate. Conic problems and conic duality. Dual cones and notion of barriers for them. DCP and reduction of the convex problem to the conic form. Example of NP-hard convex optimization problem. | [lecture4.ipynb](lecture4.ipynb) |
 | 5. Modeling with CVXPy | Expression tree, DCP check, canonicalization to a cone program, primal-dual recovery. Problems accepted as written; equivalent rewrites (the right atom, a geometric program); the MaxCut spectrahedron as a relaxation of a refused constraint; problems with no rewrite. Total-variation denoising, the graphical lasso, and pre-cooling an office ahead of an electricity price spike. | [lecture5.ipynb](lecture5.ipynb) |
 | 6. Introduction to numerical methods | Oracles, residuals, and rates. Gradient descent on $L$-smooth, $L$-smooth convex, and $L$-smooth strongly convex functions; what each bound guarantees and where it stops. Constant steps, exact line search, Armijo, diminishing steps, Polyak. A quadratic, logistic regression, and a nonconvex function with several minima. | [lecture6.ipynb](lecture6.ipynb) |
+| 7. Accelerated first-order methods | | |
+| 8. Newton and quasi-Newton methods | | |
+| 9. Proximal gradient methods | | |
+| 10. Penalty methods and ADMM | | |
+| 11. Interior point methods | | |
+| 12. Stochastic first-order methods | | |
+| 13. Introduction to federated learning | | |
+| 14. TBD | | |
+| 15. Project presentations | | |
+
